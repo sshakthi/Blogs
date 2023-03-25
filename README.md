@@ -1,0 +1,2 @@
+# Blogs
+Documentation blogs
